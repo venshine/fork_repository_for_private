@@ -3,9 +3,9 @@ The public repositories provided by Github do not allow the creation of private 
 ### Usage
 1. fork project to personal private repository
 ```
-sh fork_repository_for_private $repository
+sh fork_repository_for_private.sh $repository
 ```
 2. fork project to team private repository
 ```
-sh fork_repository_for_private $repository $team
+sh fork_repository_for_private.sh $repository $team
 ```
