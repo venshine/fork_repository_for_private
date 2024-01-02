@@ -3,11 +3,11 @@ The public repositories provided by Github do not allow the creation of private 
 > The git and gh commands need to be installed.
 
 ## Usage
-1. fork project to personal private repository
+1. fork project to personal private repository, the script automatically creates the project
 ```
 sh fork_repository_private.sh $github_public_repository_url
 ```
-2. fork project to team private repository
+2. fork project to team private repository, the script automatically creates the project
 ```
 sh fork_repository_private.sh $github_public_repository_url $team
 ```
