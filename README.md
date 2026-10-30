@@ -1,3 +1,5 @@
+English | [简体中文](README-CN.md)
+
 The public repositories provided by Github do not allow the creation of private branches, and the method of creating a private branch by [copying the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) is documented here.
 
 > The git and gh commands need to be installed.
